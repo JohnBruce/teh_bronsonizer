@@ -6,7 +6,8 @@
   "version": "1.0",
 
   "browser_action": {
-    "default_title": "Bronsonize this page"
+    "default_title": "Bronsonize this page",
+    "default_icon": "cb.png"
   },
   "permissions": [
     "activeTab"
